@@ -1,0 +1,6 @@
+E:\One Drive\Masaüstü\Software\Unity\ANKA Unity Tutorials (Orjinal)\Week 3\Assets\Scripts\Player\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\One Drive\Masaüstü\Software\Unity\ANKA Unity Tutorials (Orjinal)\Week 3\Assets\Scripts\Player\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\One Drive\Masaüstü\Software\Unity\ANKA Unity Tutorials (Orjinal)\Week 3\Assets\Scripts\Player\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\One Drive\Masaüstü\Software\Unity\ANKA Unity Tutorials (Orjinal)\Week 3\Assets\Scripts\Player\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\One Drive\Masaüstü\Software\Unity\ANKA Unity Tutorials (Orjinal)\Week 3\Assets\Scripts\Player\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\One Drive\Masaüstü\Software\Unity\ANKA Unity Tutorials (Orjinal)\Week 3\Assets\Scripts\Player\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
