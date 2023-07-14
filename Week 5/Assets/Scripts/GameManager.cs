@@ -14,10 +14,14 @@ public class GameManager : MonoBehaviour
     
     private void Start()
     {
-        oC[0].obstacleSpeed = 7;
-        oC[1].obstacleSpeed = 7;
-        oC[2].obstacleSpeed = 7;
-        oC[3].obstacleSpeed = 7;
+        foreach (var obstacles in oC)
+        {
+            obstacles.obstacleSpeed = 7;
+        }
+        //oC[0].obstacleSpeed = 7;
+        //oC[1].obstacleSpeed = 7;
+        //oC[2].obstacleSpeed = 7;
+        //oC[3].obstacleSpeed = 7;
         effectManager.ParticalsActive();
     }
 
@@ -31,10 +35,14 @@ public class GameManager : MonoBehaviour
         if (uiController.score % 100 == 0)
         {
             worldMovement.worldSpeed += 2;
-            oC[0].obstacleSpeed = worldMovement.worldSpeed;
-            oC[1].obstacleSpeed = worldMovement.worldSpeed;
-            oC[2].obstacleSpeed = worldMovement.worldSpeed;
-            oC[3].obstacleSpeed = worldMovement.worldSpeed;
+            foreach (var obstacles in oC)
+            {
+                obstacles.obstacleSpeed = worldMovement.worldSpeed;
+            }
+            //oC[0].obstacleSpeed = worldMovement.worldSpeed;
+            //oC[1].obstacleSpeed = worldMovement.worldSpeed;
+            //oC[2].obstacleSpeed = worldMovement.worldSpeed;
+            //oC[3].obstacleSpeed = worldMovement.worldSpeed;
             uiController.score++;
         }
     }
