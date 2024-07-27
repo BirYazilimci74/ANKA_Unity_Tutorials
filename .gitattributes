@@ -3,6 +3,8 @@
 *.cs diff=csharp text
 *.cginc text
 *.shader text
+*.cs linguist-language=C#
+vendor/* linguist-vendored
 
 *.mat merge=unityyamlmerge eol=lf
 *.anim merge=unityyamlmerge eol=lf
